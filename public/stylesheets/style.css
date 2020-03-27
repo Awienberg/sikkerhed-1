@@ -41,6 +41,8 @@ li a:hover {
 }
 .reslog a {
     display: block;
+    border-radius: 5px;
+
     color: #fff;
     background-color: #202020;
     padding: 14px 16px;
