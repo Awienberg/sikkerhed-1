@@ -186,6 +186,7 @@ table {
 
 label {
     /* Other styling... */
+    font-weight: 600;
     text-align: right;
     clear: both;
     float: left;
