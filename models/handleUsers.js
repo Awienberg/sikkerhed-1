@@ -4,7 +4,7 @@ const bcrypt = require('bcryptjs');                         // added for hashing
 const User = require("./User");
 const saltTurns = 10;
 const dbServer = "localhost";
-const dbName = "worldusers";
+const dbname = "worldusers";
 
 exports.upsertUser = async function (req) {
     let check = { email: req.body.email };
