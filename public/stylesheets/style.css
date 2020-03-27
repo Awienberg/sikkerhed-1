@@ -8,7 +8,7 @@ body {
 }
 header {
     text-align: left;
-    padding: 20px;
+    padding: 10px;
     background: #fff;
     display: flex;
     justify-content: space-between;
@@ -67,6 +67,8 @@ main {
 h1 {
     font-size: 30px;
     color: #202020;
+    padding: 14px 16px; 
+
 }
 h2 {
     font-size: 20px;
